@@ -52,7 +52,6 @@ Prisma Studio will open in your browser (default: http://localhost:5555). From t
 ## Project Structure
 
 ```
-starter/
 ├── .env                  # Your database connection string (not committed)
 ├── package.json
 ├── prisma.config.ts      # Prisma config — reads DATABASE_URL from .env
